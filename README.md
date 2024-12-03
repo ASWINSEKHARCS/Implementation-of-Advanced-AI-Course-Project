@@ -7,7 +7,13 @@ This project explores the use of deep learning models, specifically **U-Net** an
 - **Data Preparation**: Includes normalization, resizing, and augmentation techniques tailored for ultrasound images.
 - **Model Architectures**:
   - **U-Net**: A convolutional neural network optimized for image segmentation and reconstruction tasks.
+    
+   ![image](https://github.com/user-attachments/assets/b724c5a1-7bd9-4a75-9a04-1e131f988c82)
+
   - **Vision Transformer (ViT)**: A cutting-edge model leveraging self-attention mechanisms for image-based tasks.
+
+![image](https://github.com/user-attachments/assets/01113894-35da-4fcd-a131-b5d96519ec4f)
+
 - **Training Pipeline**:
   - MAE, MSE loss functions for medical image reconstruction
   - Performance metrics: MAE, MSE, SSIM

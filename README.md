@@ -1,4 +1,4 @@
-# **ULTRASOUND IMAGE RECONSTRUCTION: U-NET VS. VISION TRANSFORMER**
+# **ULTRASOUND IMAGE RECONSTRUCTION: U-NET v/s VISION TRANSFORMER**
 
 ## Overview
 This project explores the use of deep learning models, specifically **U-Net** and **Vision Transformer**, for reconstructing ultrasound images. The implementation compares the effectiveness of these architectures in medical imaging applications, focusing on enhancing image quality and reconstruction accuracy.

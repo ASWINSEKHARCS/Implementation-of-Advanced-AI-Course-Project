@@ -9,7 +9,7 @@ This project explores the use of deep learning models, specifically **U-Net** an
   - **U-Net**: A convolutional neural network optimized for image segmentation and reconstruction tasks.
              ![image](https://github.com/user-attachments/assets/3acda841-11b5-4499-b1a1-3d1dbe76dfe6)
   - **Vision Transformer (ViT)**: A cutting-edge model leveraging self-attention mechanisms for image-based tasks.
-
+              ![image](https://github.com/user-attachments/assets/159eebb7-6e4e-4edb-9878-9412b9c01845)
 - **Training Pipeline**:
   - MAE, MSE loss functions for medical image reconstruction
   - Performance metrics: MAE, MSE, SSIM

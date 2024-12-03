@@ -6,9 +6,13 @@ FEATURES
 •	Data Preparation: Includes normalization, resizing, and augmentation techniques tailored for ultrasound images.
 •	Model Architectures: 
 o	U-Net: A convolutional neural network optimized for image segmentation and reconstruction tasks.
+
 ![image](https://github.com/user-attachments/assets/b375891b-9c24-4c11-887b-4393e802843b)
+
 o	Vision Transformer (ViT): A cutting-edge model leveraging self-attention mechanisms for image-based tasks.
+
 ![image](https://github.com/user-attachments/assets/2fbcae0c-e3f4-4dc3-b4e6-6dd729180877)
+
 •	Training Pipeline: 
 o	Custom loss functions for medical image reconstruction
 o	Performance metrics to evaluate model outputs

@@ -45,3 +45,8 @@ Testing Data: IEEE IUS Challenge Dataset ([https://www.creatis.insa-lyon.fr/Chal
 - U-Net excels in capturing fine-grained details in ultrasound images.
 - Vision Transformer provides competitive results, especially in scenarios requiring a global contextual understanding.
 Detailed performance metrics and reconstructed image samples are available in the results/ folder.
+
+## Developer  
+**Name:** [Aswin Sekhar C S]  
+**Email:** [aswinsek007@gmail.com]  
+**LinkedIn Profile:** [LinkedIn Profile Link](https://www.linkedin.com/in/aswinsekhar/)  

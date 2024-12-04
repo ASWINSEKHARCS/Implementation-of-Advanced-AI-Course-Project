@@ -48,5 +48,6 @@ Detailed performance metrics and reconstructed image samples are available in th
 
 ## Developer  
 **Name:** Aswin Sekhar C S  
+**Student ID:** 2303813
 **Email:** aswinsek007@gmail.com  
 **LinkedIn Profile:** [LinkedIn Profile Link](https://www.linkedin.com/in/aswinsekhar/)  

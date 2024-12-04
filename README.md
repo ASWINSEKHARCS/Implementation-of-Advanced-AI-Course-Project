@@ -47,6 +47,6 @@ Testing Data: IEEE IUS Challenge Dataset ([https://www.creatis.insa-lyon.fr/Chal
 Detailed performance metrics and reconstructed image samples are available in the results/ folder.
 
 ## Developer  
-**Name:** [Aswin Sekhar C S]  
-**Email:** [aswinsek007@gmail.com]  
+**Name:** Aswin Sekhar C S  
+**Email:** aswinsek007@gmail.com  
 **LinkedIn Profile:** [LinkedIn Profile Link](https://www.linkedin.com/in/aswinsekhar/)  

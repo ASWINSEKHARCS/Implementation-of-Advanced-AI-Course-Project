@@ -26,7 +26,6 @@ To run this project, you need the following dependencies:
 
 ## File Structure
 - **`Ultrasound_Image_Reconstruction_UNet_Vs_VisionTransformer.ipynb`**: Main notebook containing all code for data processing, model implementation, training, and evaluation.
-- **`models/`**: Saved weights for the trained best U-Net and Vision Transformer models.
 - **`results/`**: Folder containing reconstructed images and performance metrics.
 
 ## How to Run
